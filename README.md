@@ -63,5 +63,6 @@ Dado que a maioria dos clientes é mais conservador e prefere realizar compras p
 
 [Video - Apresentação](https://www.loom.com/share/62ba46b4358e431495f086585f660309?sid=4adb7149-e7cd-42dc-8086-9d1154f7aad2)
 
+[Looker Studio](https://lookerstudio.google.com/reporting/a42aa365-afcb-4e84-9baa-fa11003db442)
 </details>
   
